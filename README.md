@@ -18,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 - 🎵 Check my website [here](http://safitri-shelton.com/)
 
 ### Q: Why does the child component have such a great self-esteem?
-### A: Because its parent keeps giving it props!
+A: Because its parent keeps giving it props!
+<br>
+<br>
 
 ### Talk about anything with me
 [<img align="left" alt="safitri_linkedin" width="30px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667">](https://www.linkedin.com/in/safitri-shelton/)
