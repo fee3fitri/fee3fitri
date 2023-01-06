@@ -3,15 +3,22 @@ fee3fitri/fee3fitri is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### 👋 Hi there!
-My name is Safitri Shelton and you can call me Fifi
+# 👋 Hi there! Fifi is here!
+![image](https://i.ibb.co/V9DpwPq/ezgif-com-gif-maker.gif)
+<br>
+<br>
+
 
 ## I'm a Software Engineer, Learner, and an Avid Traveler
 - 👀 I’m interested to create web animation
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me: [Email](mailto:safitri.shelton@gmail.com)
-- ✨ Fun fact: I love traveling and eat spicy food
+- ✨ Fun fact: I love traveling and eating spicy food
+- 🎵 Check my website [here](http://safitri-shelton.com/)
+
+### Q: Why does the child component have such a great self-esteem?
+### A: Because its parent keeps giving it props!
 
 ### Talk about anything with me
 [<img align="left" alt="safitri_linkedin" width="30px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667">](https://www.linkedin.com/in/safitri-shelton/)
