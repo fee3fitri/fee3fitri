@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a Software Engineer, Learner, and an Avid Traveler
 - 👀 I’m interested to create web animation
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently working on JavaScript30 challenge
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me: [Email](mailto:safitri.shelton@gmail.com)
 - ✨ Fun fact: I love traveling and eating spicy food
