@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me: [Email](mailto:safitri.shelton@gmail.com)
 - ✨ Fun fact: I love traveling and eating spicy food
-- 🎵 Check my website [here](http://safitri-shelton.com/)
+- 🎵 Check my website [here](http://fifishelton.com/)
 
 ### Q: Why does the child component have such a great self-esteem?
 A: Because its parent keeps giving it props!
