@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a Software Engineer, Learner, and an Avid Traveler
 - 👀 I’m interested to create web animation
-- 🌱 I’m currently working on [JavaScript30](https://github.com/fee3fitri/JavaScript30) challenge
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me: [Email](mailto:safitri.shelton@gmail.com)
 - ✨ Fun fact: I love traveling and eating spicy food
@@ -43,9 +42,9 @@ A: Because its parent keeps giving it props!
 <br>
 <br>
 
-### My Stats
-[![Safitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fee3fitri&show_icons=true&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fee3fitri&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
+[//]:### My Stats
+[//]:[![Safitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fee3fitri&show_icons=true&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
+[//]:<br>
+[//]:<br>
+[//]:[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fee3fitri&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
 
