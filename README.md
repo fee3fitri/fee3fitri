@@ -42,9 +42,10 @@ A: Because its parent keeps giving it props!
 <br>
 <br>
 
-[//]:### My Stats
-[//]:[![Safitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fee3fitri&show_icons=true&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
-[//]:<br>
-[//]:<br>
-[//]:[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fee3fitri&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
-
+<!---
+### My Stats
+[![Safitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fee3fitri&show_icons=true&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fee3fitri&theme=dracula)](https://github.com/fee3fitri/github-readme-stats)
+-->
